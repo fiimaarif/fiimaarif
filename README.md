@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Fii maarif I love design and Frontend Development
+I am Fii maarif I love Web Design and Frontend Development and I'm also currently learning Backend Developer
 
 Here are some ideas to get you started:
 
