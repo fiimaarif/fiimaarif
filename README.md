@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: fiimaarif44@gmail.com
+- 📫 How to reach me: email: fiimaarif44@gmail.com, IG: fimaarif
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
