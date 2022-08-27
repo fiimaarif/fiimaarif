@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**fiimaarif/fiimaarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Fii maarif I love design and Frontend Development
 
 Here are some ideas to get you started:
 
