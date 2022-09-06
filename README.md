@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Fii maarif, I love Web Design and Frontend Development, and I'm also currently learning Backend Developer
+I'm Fii maarif, I love Web Design and Frontend Development, and I'm also currently learning Backend Developer <br>
 Current programming language: PHP, Javascript, NodeJs, ExpressJS, ReactJS, Angular 
 
 Here are some ideas to get you started:
