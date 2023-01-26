@@ -6,7 +6,7 @@ See my Vercel -> https://vercel.com/fiimaarif
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Bussan Auto Finance as a Software Developer
+- 🔭 I’m currently working on PT. Bussan Auto Finance as a Software Developer
 - 🌱 I’m currently learning React Native Framework
 - 📫 How to reach me, email : fiimaarif44@gmail.com, ig : fimaarif
 <!-- - 👯 I’m looking to collaborate on ... -->
