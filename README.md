@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello 👋, I'm Fii Ma'arif!
+
+<a href="https://www.linkedin.com/in/fiimaarif/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/fimaarif/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 
 I'm Fii maarif <br> As a Frontend Developer, I have experience in creating and developing responsive and intuitive user interfaces for web applications. I possess skills in HTML, CSS, and JavaScript, as well as experience using frameworks such as React and Angular. I am also able to work closely with the backend team to ensure seamless integration between the user interface and systems. I am passionate about learning and experimenting with new technologies to create better applications.<br>
 See my Vercel -> https://vercel.com/fiimaarif
