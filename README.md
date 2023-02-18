@@ -7,7 +7,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-I'm a Frontend Developer, I have experience in creating and developing responsive and intuitive user interfaces for web applications. I possess skills in HTML, CSS, and JavaScript, as well as experience using frameworks such as React and Angular. I am also able to work closely with the backend team to ensure seamless integration between the user interface and systems. I am passionate about learning and experimenting with new technologies to create better applications.<br>
+I'm a Frontend Developer, I have experience in creating and developing responsive and intuitive user interfaces for web applications. I possess skills in HTML, CSS, and JavaScript, as well as experience using frameworks such as ReactJS, Angular and React Native for Mobile. I am also able to work closely with the backend team to ensure seamless integration between the user interface and systems. I am passionate about learning and experimenting with new technologies to create better applications.<br>
 
 Here are some ideas to get you started:
 
