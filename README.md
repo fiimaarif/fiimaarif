@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me, email : fiimaarif44@gmail.com, linkedIn : [fimaarif](https://www.linkedin.com/in/fiimaarif/)
 
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fiimaarif&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=fiimaarif&show_icons=true&count_private=false&hide_border=true" align="center" /></div> 
 
 ## Languages and Tools  
 <div align="center">  
