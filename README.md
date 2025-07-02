@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on PT. Bussan Auto Finance as a Frontend Developer
 - 📫 How to reach me, email : fiimaarif44@gmail.com, linkedIn : [fimaarif](https://www.linkedin.com/in/fiimaarif/)
 
-<br/>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=fiimaarif&show_icons=true&count_private=true&hide_border=true&bg_color=00000000" align="center"/>
-</div>
 
 ## Languages and Tools  
 <div align="center">  
