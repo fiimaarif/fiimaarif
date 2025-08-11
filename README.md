@@ -9,7 +9,7 @@
 
 I'm a Frontend Developer, I have experience in creating and developing responsive and intuitive user interfaces for web applications. I possess skills in HTML, CSS, and JavaScript, as well as experience using frameworks such as ReactJS, Angular and React Native for Mobile. I am also able to work closely with the backend team to ensure seamless integration between the user interface and systems. I am passionate about learning and experimenting with new technologies to create better applications.<br>
 
-Here are some ideas to get you started:
+Here are some ideas to get you started :
 
 - 🔭 I’m currently working on PT. Bussan Auto Finance as a Frontend Developer
 - 📫 How to reach me, email : fiimaarif44@gmail.com, linkedIn : [fimaarif](https://www.linkedin.com/in/fiimaarif/), personal web : [aboutfi.vercel.app](https://aboutfi.vercel.app/)
