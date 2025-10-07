@@ -12,7 +12,7 @@ I'm a Frontend Developer, I have experience in creating and developing responsiv
 Here are some ideas to get you started :
 
 - 🔭 I’m currently working on PT. Bussan Auto Finance as a Frontend Developer
-- 📫 How to reach m, email : fiimaarif44@gmail.com, linkedIn : [fimaarif](https://www.linkedin.com/in/fiimaarif/), personal web : [aboutfi.vercel.app](https://aboutfi.vercel.app/)
+- 📫 How to reach me, email : fiimaarif44@gmail.com, linkedIn : [fimaarif](https://www.linkedin.com/in/fiimaarif/), personal web : [aboutfi.vercel.app](https://aboutfi.vercel.app/)
 
 
 ## Languages and Tools  
